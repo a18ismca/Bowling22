@@ -1,0 +1,16 @@
+td, th, tr{
+    padding: 5px;
+    border-style: solid;
+}
+
+center{
+    align-self: center;
+}
+
+.square{
+    width: 20px;
+    height: 20px;
+    padding-bottom: 6px;
+    padding-right: 6px;
+    border-style: solid;
+}
